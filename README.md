@@ -2,7 +2,7 @@
 
 Este projeto tem como intuito demonstrar proeficiência na aplicação de inúmeros conceitos de Javascritp ES6+ e tecnologias compatíveis. 
 
-#O que foi utilizado
+# O que foi utilizado
 
 - Manipulação de DOM
 - Desestruturação 
