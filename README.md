@@ -18,7 +18,7 @@ Este projeto tem como intuito demonstrar proeficiência na aplicação de inúme
 
 # Como instalar
 - Clone ou faça dowload do repositório
-- Abra o terminal dentro da pasta do projeto e execute o comando **nmp install** para instalar as dependências
+- Abra o terminal dentro da pasta do projeto e execute o comando **npm install** para instalar as dependências
 - Execute o comando **npm run dev** para inicializar o servidor
 
 
