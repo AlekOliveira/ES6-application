@@ -1,6 +1,6 @@
 # Qual o intuito deste projeto?
 
-Este projeto tem como intuito demonstrar proeficiência na aplicação de inúmeros conceitos de Javascritp ES6+ e tecnologias compatíveis. 
+Este projeto faz o consumo da api do GitHub. O seu intuito é demonstrar proeficiência na aplicação de inúmeros conceitos de Javascritp ES6+, Consumo de APIs e tecnologias compatíveis. 
 
 # O que foi utilizado
 
@@ -16,7 +16,10 @@ Este projeto tem como intuito demonstrar proeficiência na aplicação de inúme
 - HTML
 - CSS
 
-# Como instalar
+# Exemplo de consulta
+![img](https://github.com/AlekOliveira/ES6-application/blob/master/images/preview.png)
+
+# Como rodar o projeto
 - Clone ou faça dowload do repositório
 - Abra o terminal dentro da pasta do projeto e execute o comando **npm install** para instalar as dependências
 - Execute o comando **npm run dev** para inicializar o servidor
